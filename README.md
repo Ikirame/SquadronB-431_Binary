@@ -17,9 +17,14 @@ In order to increase the gameplay experience, you can play in VR allowing more i
 
 <p align="center"><img width=80% src="res/top_down-vr.png"></p>
 
-# Usage
+## Getting started
 
-In progress...
+These instructions will get you a copy of the project up and running on your local machine for testing purposes.
+
+```
+Go to "Release" tab and downlad the 'Squadron-B431.zip' file.
+After download, you can unzip the release and launch the executable to test our game.
+```
 
 # Authors
 
